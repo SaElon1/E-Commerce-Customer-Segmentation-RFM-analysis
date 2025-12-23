@@ -1,6 +1,6 @@
 # E-commerce Customer Segmentation & RFM Analysis
 
-**Live Demo Application: url**
+**Live Demo Application: https://e-commerce-customer-segmentation-rfm-analysis-ks2p8vpsrkxcvvfu.streamlit.app/**
 
 **Tech Stack:** Python, Pandas, Streamlit
 
