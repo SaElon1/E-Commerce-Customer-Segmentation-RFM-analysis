@@ -1,0 +1,13 @@
+data/
+*.xlsx
+*.csv
+
+.DS_Store
+__pycache__/
+*.pyc
+
+.venv/
+env/
+
+
+!data/processed/rfm_segments_cleaned.csv
