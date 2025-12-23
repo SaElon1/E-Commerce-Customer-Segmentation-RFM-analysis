@@ -1,4 +1,7 @@
-data/
+data/*
+
+!data/processed/
+
 *.xlsx
 *.csv
 
