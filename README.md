@@ -15,7 +15,7 @@ Analyzed over 400k transaction rows to find the most valuable customers.
 * **Key Techniques:** Data cleaning, Feature Engineering, Visualization.
 * **Visualization:** Used Streamlit to visualize the results in an interactive web application.
 
-### 📊 Key Findings
+### 📊 Results
 * Customers were segmented into groups by using the RFM score (1-5):
     * Most Valuable Customers (Best Recency and Frequency)
     * Potential Loyal Customers (Good Recency, Medium Frequency)
